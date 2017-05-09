@@ -1,0 +1,10 @@
+{
+  "name": "test-discovery-swarm",
+  "main": "index.js",
+  "dependencies": {
+    "discovery-swarm": "^4.3.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
